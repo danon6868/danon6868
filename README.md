@@ -5,7 +5,7 @@
 
 
 
-[![Website Badge](https://img.shields.io/badge/-daniillitvinov-03a57a?style=flat-square&labelColor=&logo="AT&T"&link=https://danon6868.github.io/)](https://danon6868.github.io/)
+[![Website Badge](https://img.shields.io/badge/-daniillitvinov-03a57a?style=flat-square&labelColor=&logo="Elastic"&link=https://danon6868.github.io/)](https://danon6868.github.io/)
 
 [![GitHub followers](https://img.shields.io/github/followers/danon6868?label=Follow&style=social)](https://github.com/danon6868/?tab=follow)
 
