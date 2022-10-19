@@ -17,7 +17,8 @@ My skills 📜
 </summary>
   
 ### Programming
-  
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" rel="stylesheet" />
+
 <li><span class="fa-li"><i class="fa-solid fa-qrcode"></i></span><p data-block-key="nu0up"><b>Biological education</b>, which helps me to understand specialized biological and medical literature</p></li> 
   
   
