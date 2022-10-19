@@ -23,10 +23,19 @@ My skills 📜
 * Linux, Bash, git, Docker, Kubernetes, Airflow
 * JavaScript
   
-  
 ### Machine Learning Methods
   
+  * Classical Machine Learning (linear models, tree-based approaches, Catboost, LightGBM, XGBoost, Bayesian methods)
+  * Deep learning (MLP, CNN, image segmentation, detection, RNN, LSTM, Transformers, AE, VAE, GAN, TabNet)
+  * Model tuning (Optuna, genetic algorithm, Boruta)
+  * Interpretable machine learning (SHAP, LIME, Pixel Attribution)
+  
 ### Bioinformatics
+  
+  * Databases (NCBI, UniProt, PDB, MsigDB, SILVA)
+  * Command-line tools (Cellranger, cellSNP, Picard, BLAST, GATK, STAR, SPAdes)
+  * Protein sequence analysis tools (MAFFT, MUSCLE, HMMER, ESM)
+  * Protein structure analysis tools (Rosetta, Phenix, Coot, AlphaFold)
   
 ### Languages
   
