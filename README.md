@@ -11,4 +11,12 @@ In addition, I have experience teaching statistics and machine learning for stud
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danon6868&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+-------
+<details>
+<summary>
+  More stuff about me
+</summary>
+  
+  tratra
+  
+</details>
