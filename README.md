@@ -1,16 +1,14 @@
 ### Hi there 👋
 
 
-
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) 
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-daniillitvinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/tanejasaksham/](https://www.linkedin.com/in/daniil-litvinov-b555b124b/))](https://www.linkedin.com/in/daniil-litvinov-b555b124b/)
 
 
 
-[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)
+[![Website Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://danon6868.github.io/)](https://danon6868.github.io/)
+
 [![GitHub followers](https://img.shields.io/github/followers/danon6868?label=Follow&style=social)](https://github.com/danon6868/?tab=follow)
+
 [![Gmail Badge](https://img.shields.io/badge/-daniillitvinov997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniillitvinov997@gmail.com)](mailto:daniillitvinov997@gmail.com)
 
 I am a computational biologist with a commercial experience in python and R programming and in machine learning.
