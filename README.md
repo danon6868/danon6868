@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/tanejasaksham/](https://www.linkedin.com/in/daniil-litvinov-b555b124b/))](https://www.linkedin.com/in/daniil-litvinov-b555b124b/)
+[![Linkedin Badge](https://img.shields.io/badge/-daniillitvinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/tanejasaksham/](https://www.linkedin.com/in/daniil-litvinov-b555b124b/))](https://www.linkedin.com/in/daniil-litvinov-b555b124b/)
 
 
 
