@@ -6,6 +6,11 @@
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
+I am a computational biologist. I have commercial experience in python programming and in machine learning.
+
+My industry experience is applying machine learning methods and statistics for analyzing omics data and computer vision methods for cryo-EM data analysis. In addition, I have experience teaching statistics and machine learning for students of biology and medicine.
+
+My primary goal is to continue to develop my skills in the field of AI/ML/DL applied to biology.
 
 
 
