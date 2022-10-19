@@ -2,9 +2,11 @@
 
 
 
+<p align="center">
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=danon6868&style=flat-square&color=blue" alt=""></p>
+
+
 
 
 
