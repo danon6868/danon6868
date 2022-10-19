@@ -18,10 +18,7 @@ My skills 📜
   
 ### Programming
   
-<li><span class="fa-li"><i class="fa-solid fa-qrcode"></i></span>
-                            <p data-block-key="nu0up"><b>Biological education</b>, which helps me to understand
-                                specialized biological and medical literature</p>
-                        </li> 
+<li><span class="fa-li"><i class="fa-solid fa-qrcode"></i></span><p data-block-key="nu0up"><b>Biological education</b>, which helps me to understand specialized biological and medical literature</p></li> 
   
   
 ### Machine Learning Methods
