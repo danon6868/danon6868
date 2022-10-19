@@ -11,13 +11,18 @@ In addition, I have experience teaching statistics and machine learning for stud
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danon6868&theme=dark&background=000000)](https://git.io/streak-stats)
 
--------
 <details>
 <summary>
-## My skills 📜
+My skills 📜
 </summary>
   
 ### Programming
+  
+<li><span class="fa-li"><i class="fa-solid fa-qrcode"></i></span>
+                            <p data-block-key="nu0up"><b>Biological education</b>, which helps me to understand
+                                specialized biological and medical literature</p>
+                        </li> 
+  
   
 ### Machine Learning Methods
   
