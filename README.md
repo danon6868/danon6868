@@ -9,7 +9,7 @@ In addition, I have experience teaching statistics and machine learning for stud
 
 <details>
 <summary>
-My skills 📜
+My skills :hammer_and_wrench:
 </summary>
   
 ### Programming
