@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danon6868&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danon6868)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/danon6868"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danon6868&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true" alt="Daniil Litvinov github stats" /></a>
