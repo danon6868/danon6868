@@ -17,6 +17,6 @@ In addition, I have experience teaching statistics and machine learning for stud
   More stuff about me
 </summary>
   
-  tratra
+## My skills 📜
   
 </details>
