@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/sakshamtaneja21?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
 
-I am a computational biologist. I have commercial experience in python programming and in machine learning.
+I am a computational biologist with a commercial experience in python and R programming and in machine learning.
 
 My industry experience is applying machine learning methods and statistics for analyzing omics data and computer vision methods for cryo-EM data analysis. In addition, I have experience teaching statistics and machine learning for students of biology and medicine.
 
@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danon6868&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<center>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danon6868&theme=dark&background=000000)](https://git.io/streak-stats)
+</center>
 
 <!--START_SECTION:waka
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=danon6868&show_icons=true)
