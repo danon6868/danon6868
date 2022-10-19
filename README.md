@@ -1,8 +1,15 @@
 ### Hi there 👋
 
+
+
+<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=danon6868&style=flat-square&color=blue" alt=""></p>
+
+
+
 <!--
 **danon6868/danon6868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
