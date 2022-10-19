@@ -7,10 +7,6 @@ I am a computational biologist with a commercial experience in python and R prog
 
 In addition, I have experience teaching statistics and machine learning for students of biology and medicine. My primary goal is to continue to develop my skills in the field of AI/ML/DL applied to biology.
 
--------
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danon6868&theme=dark&background=000000)](https://git.io/streak-stats)
-
 <details>
 <summary>
 My skills 📜
@@ -18,29 +14,43 @@ My skills 📜
   
 ### Programming
 
-* **Python** (Numpy, Pandas, Matplotlib, Seaborn, Sklearn, PyTorch, Keras, FastAPI, Django)
-* R (ggplot2, Seurat, DeSeq2, dplyr)
-* Linux, Bash, git, Docker, Kubernetes, Airflow
-* JavaScript
+  * **Python** (Numpy, Pandas, Matplotlib, Seaborn, Sklearn, PyTorch, Keras, FastAPI, Django)
+  * **R** (ggplot2, Seurat, DeSeq2, dplyr)
+  * **Linux**, **Bash**, **git**, **Docker**, **Kubernetes**, **Airflow**
+  * **JavaScript**
   
 ### Machine Learning Methods
   
-  * Classical Machine Learning (linear models, tree-based approaches, Catboost, LightGBM, XGBoost, Bayesian methods)
-  * Deep learning (MLP, CNN, image segmentation, detection, RNN, LSTM, Transformers, AE, VAE, GAN, TabNet)
-  * Model tuning (Optuna, genetic algorithm, Boruta)
-  * Interpretable machine learning (SHAP, LIME, Pixel Attribution)
+  * **Classical Machine Learning** (linear models, tree-based approaches, Catboost, LightGBM, XGBoost, Bayesian methods)
+  * **Deep learning** (MLP, CNN, image segmentation, detection, RNN, LSTM, Transformers, AE, VAE, GAN, TabNet)
+  * **Model tuning** (Optuna, genetic algorithm, Boruta)
+  * **Interpretable machine learning** (SHAP, LIME, Pixel Attribution)
   
 ### Bioinformatics
   
-  * Databases (NCBI, UniProt, PDB, MsigDB, SILVA)
-  * Command-line tools (Cellranger, cellSNP, Picard, BLAST, GATK, STAR, SPAdes)
-  * Protein sequence analysis tools (MAFFT, MUSCLE, HMMER, ESM)
-  * Protein structure analysis tools (Rosetta, Phenix, Coot, AlphaFold)
+  * **Databases** (NCBI, UniProt, PDB, MsigDB, SILVA)
+  * **Command-line tools** (Cellranger, cellSNP, Picard, BLAST, GATK, STAR, SPAdes)
+  * **Protein sequence analysis tools** (MAFFT, MUSCLE, HMMER, ESM)
+  * **Protein structure analysis tools** (Rosetta, Phenix, Coot, AlphaFold)
   
 ### Languages
   
+  * **Russian** – Native
+  * **English** – Full professional proficiency
+  * **German** – Elementary proficiency
+  
 ### Life Sciences
+  
+  * **Biological education**, which helps me to understand specialized biological and medical literature
+  * Work experience in **molecular**, **microbiological**, and **biochemical** labs
   
 ### Soft skills
   
+  * **Agile** software development methods
+  * Presentation skills
+  
 </details>
+
+-------
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danon6868&theme=dark&background=000000)](https://git.io/streak-stats)
