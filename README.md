@@ -9,10 +9,6 @@ In addition, I have experience teaching statistics and machine learning for stud
 
 -------
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danon6868&theme=highcontrast&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danon6868&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-<!--START_SECTION:waka
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=danon6868&show_icons=true)
-END_SECTION:waka-->
 
