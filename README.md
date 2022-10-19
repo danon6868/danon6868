@@ -14,9 +14,19 @@ In addition, I have experience teaching statistics and machine learning for stud
 -------
 <details>
 <summary>
-  More stuff about me
+## My skills 📜
 </summary>
   
-## My skills 📜
+### Programming
+  
+### Machine Learning Methods
+  
+### Bioinformatics
+  
+### Languages
+  
+### Life Sciences
+  
+### Soft skills
   
 </details>
