@@ -18,7 +18,7 @@ Developed an algorithm for cryo-EM maps resolution estimation using deep learnin
   * Collected and prepared training data, pairs of electron density maps, and local resolution maps.
   * Developed and trained neural network model to estimate local resolution map based on electron density map using 3D‑UNet model architecture.
   * Based on the trained model, created a CLI tool as well as a web application for cryo‑EM maps resolution estimation using deep learning.
-  * **Skills:** Python, Django, PyTorch, Keras, EMAN2, RELION-3, scikit-learn, Bash.
+  * **Skills:** Python, Django, PyTorch, Keras, EMAN2, RELION-3, Scikit-learn, Bash.
 
 ### Portfolio website
 
