@@ -10,7 +10,6 @@ In addition, I have experience teaching statistics and machine learning for stud
 <details>
 <summary>
 Key projects :memo:
-:pencil:
 </summary>
 
 ### LoReNNMap
