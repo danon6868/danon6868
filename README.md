@@ -5,9 +5,13 @@
 
 I am a computational biologist with a commercial experience in python and R programming and in machine learning. My industry experience is applying machine learning methods and statistics for analyzing omics data and computer vision methods for cryo-EM data analysis.
 
-In addition, I have experience teaching statistics and machine learning for students of biology and medicine. My primary goal is to continue to develop my skills in the field of AI/ML/DL applied to biology.
+In addition, I have experience teaching statistics and machine learning for students of biology and medicine. My primary goal is to continue developing my skills in the field of AI/ML/DL applied to biology.
 
-## Key projects
+<details>
+<summary>
+Key projects :memo:
+:pencil:
+</summary>
 
 ### LoReNNMap
 
@@ -63,6 +67,7 @@ This project aims to study differential genes expression of 19 sportsmen during 
   * Aligned processed reads on the human reference genome and counted gene and isoform expression levels.
   * Identify the list of differential expressed genes and their functional analysis as well as cluster analysis.
   * **Skills:** Python, R, DESeq2, FastQC, Bash, STAR, RSEM, MSigDB, GeneQuery.
+  </details>
 
 <details>
 <summary>
