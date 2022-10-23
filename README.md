@@ -9,25 +9,60 @@ In addition, I have experience teaching statistics and machine learning for stud
 
 ## Key projects
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+### LoReNNMap
 
-### LoReNNMap [<i class="fa fa-github" style="color:white"></i>](https://github.com/danon6868/CryoEM_Resolution_Estimation) [<i class="fa fa-web" style="color:white"></i>](https://www.bioeng.ru/lorennmap/) 
+[Application](https://www.bioeng.ru/lorennmap/). [Source](https://github.com/danon6868/CryoEM_Resolution_Estimation)
 
 Developed an algorithm for cryo-EM maps resolution estimation using deep learning.
 
-  * Collected and prepared training data, pairs of electron density map and local resolution map.
-  * Developed and trained neural network model that can estimate local resolution map based on electron density map using 3D‑UNet model architecture.
-  * Based on the trained model, created CLI tool as well as web application for cryo‑EM maps resolution estimation using deep learning.
-  * **Technical Skills:** Python, Django, PyTorch, Keras, EMAN2, RELION‑3, Scikit‑learn, Bash.
+  * Collected and prepared training data, pairs of electron density maps, and local resolution maps.
+  * Developed and trained neural network model to estimate local resolution map based on electron density map using 3D‑UNet model architecture.
+  * Based on the trained model, created a CLI tool as well as a web application for cryo‑EM maps resolution estimation using deep learning.
+  * **Skills:** Python, Django, PyTorch, Keras, EMAN2, RELION-3, scikit-learn, Bash.
 
-### Recommender system [<i class="fa fa-github" style="color:white"></i>](https://github.com/danon6868/recommender-system-api)
+### Portfolio website
+
+[Application](https://danon6868.github.io/). [Source](https://github.com/danon6868/portfolio-website)
+
+Python Django-based personal portfolio website. All content: personal information, portfolio projects, social media links, etc. can be adjusted in Wagtail admin.
+
+  * Created a Django‑based personal portfolio website.
+  * The website uses Wagtail CMS. Wagtail is a Django Content Management System.
+  * Code from the attached repository can be used as a starting point for developing a production‑ready Django personal website with deployment to Heroku.
+  * **Skills:** Python, Docker, JavaScript, CSS, HTML, Django, Wagtail, SQL.
+
+### Recommender system
+
+[Results](https://github.com/danon6868/recommender-system-api/blob/main/recommender_system/ab_test_results_analysis/ab_test_result_analysis.ipynb). [Source](https://github.com/danon6868/recommender-system-api)
 
 Content-based recommender system API based on the text of the post and user data.
 
-  * Created content‑based recommendation system based on user data and post texts.
+  * Created a content‑based recommendation system based on user data and post texts.
   * Built a web API using FastAPI to predict the most relevant posts for a user.
   * Added an A/B testing system to select the most appropriate recommendation model.
-  * **Technical Skills:** Python, Docker, SQL, PyTorch, Scikit‑learn, CatBoost, FastAPI, Optuna, NLP, Transformers.
+  * **Skills:** Python, Docker, SQL, PyTorch, Scikit-learn, CatBoost, FastAPI, Optuna, NLP, Transformers.
+
+### Developing best practices for single-cell analysis: data integration
+
+[Results](https://docs.google.com/presentation/d/1yZ4Zv2htTKizPDkxDkMDWy77uvzFRmiguy3UsyZDXGk/edit#slide=id.gdd663730a8_0_0). [Source](https://github.com/immunomind/bi2021spring)
+
+The single-cell transcriptomics analysis has multiple steps, but we have focused on data integration — a crucial step when working with clinical data coming from patients.
+
+  * Researched libraries for scRNA‑seq data analysis and batch effect removal.
+  * Tested 8 algorithms on different data types and select the most suitable one for each case.
+  * Created software for batch effect removal from scRNA‑seq data using the best algorithm for the current case.
+  * **Skills:** Python, R, Scikit-learn, Scanpy, BBKNN, MNN, Scanorama, Cell Ranger, Bash.
+
+### Study of the transcriptome during intense exercises in highlands
+
+[Results](https://docs.google.com/presentation/d/1EzHlLa3YpSoFgdo5eapeyzFIxL91gq_KU4ZYvp_kF3k/edit#slide=id.p). [Source](https://github.com/danon6868/sky_runners)
+
+This project aims to study differential genes expression of 19 sportsmen during physical and psychological stress before and after running in extreme highlands conditions.
+
+  * Processed and evaluated the quality of raw reads.
+  * Aligned processed reads on the human reference genome and counted gene and isoform expression levels.
+  * Identify the list of differential expressed genes and their functional analysis as well as cluster analysis.
+  * **Skills:** Python, R, DESeq2, FastQC, Bash, STAR, RSEM, MSigDB, GeneQuery.
 
 <details>
 <summary>
@@ -38,7 +73,7 @@ My skills :hammer_and_wrench:
 
   * **Python** (Numpy, Pandas, Matplotlib, Seaborn, Sklearn, PyTorch, Keras, FastAPI, Django)
   * **R** (ggplot2, Seurat, DeSeq2, dplyr)
-  * **Linux**, **Bash**, **git**, **Docker**, **Kubernetes**, **Airflow**
+  * **Linux**, Bash, **git**, GitHub, Bitbucket, **Docker**, Kubernetes, Airflow, **Jira**
   * **JavaScript**
   
 ### Machine Learning Methods
@@ -48,11 +83,11 @@ My skills :hammer_and_wrench:
   * **Model tuning** (Optuna, genetic algorithm, Boruta)
   * **Interpretable machine learning** (SHAP, LIME, Pixel Attribution)
 
-<!-- ### Statistics
+### Statistics
 
-  * 
-  *
-  * -->
+  * **Hypothesis testing**, ANOVA
+  * **Survival analysis** (Kaplan-Meier curves, Log rank test, Cox regression)
+  * **Casual inference** (Propensity score, Instrumental variables, Regression discontinuity)
   
 ### Bioinformatics
   
