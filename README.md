@@ -6,7 +6,7 @@
 I am a bioinformatician with an academic and commercial experience in python and R programming and in machine learning. I am really passionate
 about applying machine learning methods and statistics for analyzing Omics data and computer vision methods for cryo‑EM data analysis. In addition,
 I teach statistics and machine learning to students of biology and medicine. My primary goal is to continue developing my skills in the field of AI/ML/DL
-applied to biology and me
+applied to biology and medicine.
 
 <details>
 <summary>
